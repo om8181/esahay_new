@@ -12,3 +12,9 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+.dart_tool/
+.build/
+.packages
+pubspec.lock
+android/.gradle/
+ios/Pods/
